@@ -1,2 +1,2 @@
 # tindog-website
-This is a basic start up website created using Bootstrap 4
+This is a basic startup website created using Bootstrap 4
